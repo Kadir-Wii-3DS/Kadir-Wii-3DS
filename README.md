@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Kadir-Wii-3DS
-- 👀 I’m interested in Nintendo's Console Modding
-- 🌱 I’m currently learning about CyberSecurity
-- 💞️ I’m looking to collaborate with someone who is interesed to create an revival for Nintendo 3DS Letter Box
-- 📫 How to reach me by mail : kadir.tasgin78388@gmail.com
+- Hi, I’m @Kadir-Wii-3DS
+
+- I Live in French, I'm 15 Years Old
+
+- I Like Mario Kart Wii, my Favourite races are Mushroom Gorge and Maple Treeway
+
+- I’m interested by Nintendo's Console
+Modding, Especially for 3DS and Wii
+
+- I’m currently learning about CyberSecurity
+  
+- I’m looking to collaborate With someone who would like to do revivals for some officials 3ds apps
+  
+- You can reach me by email : kadir.tasgin78388@gmail.com
 
 
 <!---
